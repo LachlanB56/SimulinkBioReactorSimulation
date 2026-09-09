@@ -9,6 +9,7 @@ in the tank (heater, media exchange, convective loss to the room) is summed to
 get the net rate of energy change, which is integrated into an actual tank
 temperature. That temperature is fed back and compared to the setpoint to
 close the loop.
+<img width="905" height="361" alt="image" src="https://github.com/user-attachments/assets/bdeea2ce-7bba-4cd7-b703-9b8ac6b0f7d1" />
 
 ## How it works
 
